@@ -154,7 +154,7 @@ class _InstaState extends State<Insta> {
                 children: [
                   Icon(
                     MdiIcons.heart,
-                    color: Colors.red,
+                    color: const Color.fromARGB(255, 194, 226, 9),
                   ),
                   SizedBox(
                     width: 10,
